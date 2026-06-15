@@ -107,8 +107,8 @@ def stil_anwenden():
         .sentra-logo { line-height: 0; }
         .sentra-mark {
             font-size: 1.55rem;
-            font-weight: 600;
-            letter-spacing: 0.20em;
+            font-weight: 700;
+            letter-spacing: 0.10em;
             color: #0F172A;
         }
         .sentra-tag {
